@@ -1,0 +1,22 @@
+{
+  "name": "twinecli",
+  "version": "1.0.0",
+  "description": "Node bash shell exec script",
+  "bin": {
+    "twinecli": "./bin/twinecli.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnusmel/twinecli.git"
+  },
+  "author": "melwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnusmel/twinecli/issues"
+  },
+  "homepage": "https://github.com/magnusmel/twinecli#readme"
+}
